@@ -1,0 +1,6 @@
+[submodule "colorama"]
+	path = colorama
+	url = https://github.com/tartley/colorama
+[submodule "termcolor"]
+	path = termcolor
+	url = https://github.com/termcolor/termcolor
